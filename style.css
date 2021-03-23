@@ -441,7 +441,7 @@ input:focus {
     display: flex;
     justify-content: space-between;
     background: #0C1729;
-    padding-top: 43px;
+    padding-top: 60px;
     padding-bottom: 60px;
 }
 
@@ -474,6 +474,7 @@ input:focus {
     text-transform: uppercase;
     font-weight: 900;
     font-style: italic;
+    margin-top: 25px;
 }
 
 .footer_item_4 {
